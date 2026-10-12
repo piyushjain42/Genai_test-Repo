@@ -1,0 +1,7 @@
+Faker>=25,<42
+numpy>=1.26,<3
+pandas>=2.1,<4
+pyarrow>=14,<25
+pyspark>=3.5,<5
+pytest>=8,<9
+tqdm>=4.66,<5
